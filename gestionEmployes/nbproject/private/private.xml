@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/kor/Documents/NetBeansProjects/gestionEmployes/src/ma/projet/beans/DirecteurGeneral.java</file>
+            <file>file:/C:/Users/kor/Documents/NetBeansProjects/gestionEmployes/src/ma/projet/fenetre/CouchePresentation.java</file>
+            <file>file:/C:/Users/kor/Documents/NetBeansProjects/gestionEmployes/src/ma/projet/beans/Personne.java</file>
+            <file>file:/C:/Users/kor/Documents/NetBeansProjects/gestionEmployes/src/ma/projet/beans/Manager.java</file>
+            <file>file:/C:/Users/kor/Documents/NetBeansProjects/gestionEmployes/src/ma/projet/beans/Developpeur.java</file>
+            <file>file:/C:/Users/kor/Documents/NetBeansProjects/gestionEmployes/src/ma/projet/test/Entreprise.java</file>
+            <file>file:/C:/Users/kor/Documents/NetBeansProjects/gestionEmployes/src/ma/projet/service/ManagerService.java</file>
+            <file>file:/C:/Users/kor/Documents/NetBeansProjects/gestionEmployes/src/ma/projet/service/DeveloppeurService.java</file>
+        </group>
+    </open-files>
+</project-private>
