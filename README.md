@@ -181,4 +181,5 @@ Classe CouchePresentation :
 Cette classe contient la logique pour afficher le JTree.
 Lorsqu'un utilisateur clique sur un nœud dans le JTree, la liste des employés sous ce nœud est affichée
 #védio 
-https://github.com/user-attachments/assets/50ae743b-2cb4-4011-a8be-1cbb96b6449b
+_1_https://github.com/user-attachments/assets/50ae743b-2cb4-4011-a8be-1cbb96b6449b
+_2_https://github.com/user-attachments/assets/9def6b6c-dd87-4050-a42c-652cdc480bf8
